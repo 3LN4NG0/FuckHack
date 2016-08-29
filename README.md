@@ -1,0 +1,2 @@
+# FuckHack
+automatiza tu vida
