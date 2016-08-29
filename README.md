@@ -1,11 +1,5 @@
 # FuckHack
 automatiza tu vida
-  ______          _    _    _            _    
- |  ____|        | |  | |  | |          | |   
- | |__ _   _  ___| | _| |__| | __ _  ___| | __
- |  __| | | |/ __| |/ /  __  |/ _` |/ __| |/ /
- | |  | |_| | (__|   <| |  | | (_| | (__|   < 
- |_|   \__,_|\___|_|\_\_|  |_|\__,_|\___|_|\_               
 @Spartan-Team                    @3LN4NG0                                                                
 1) Iniciar programa          4) Crear un Virus y dejarlo en escucha 
 2) Descargar herramientas    5) Conectarse a ssh
